@@ -116,7 +116,9 @@ No Brasil, você mesmo apontou BotZero e Tangerin AI.
    - **Experimento (3 semanas):** pedir 12 meses de dados de geração de 3 usinas, calcular a geração esperada com irradiância real e entregar um **relatório de perdas por causa** (clima, indisponibilidade, degradação, defeito com garantia acionável), com o dossiê de RMA pronto.
    - **Oferta:** piloto de R$ 1.500 por portfólio.
    - **GO:** 3 pilotos pagos e pelo menos 1 garantia acionada ou perda reconhecida.
-2. **A Ideia 5 só como experimento open-source paralelo**, se você tiver interesse técnico. Ela não deve ser o negócio principal agora.
-3. **Descartar as Ideias 3, 4 e 5 na forma atual.** A numeração aqui é a do seu texto original (Credential, Property, Tax).
+2. **Agent Action Ledger só como experimento open-source paralelo**, se você tiver interesse técnico. Não deve ser o negócio principal agora.
+3. **Descartar Tax Exception Monitor, Property Risk Passport e Medical Credential Passport na forma atual.**
+
+*(As seções e a tabela deste documento estão em ordem de nota, não na numeração do seu texto original.)*
 
 **Comparação com as finalistas anteriores:** a Ideia 1 ajustada (6,6) fica **abaixo** de campos de prática/internato (7,3), do assessor de mercado livre de energia (7,1) e do software de cuidado de longa duração (7,0), todos em `pesquisa-oportunidades-tendencias-2026.md`. Ela supera as outras quatro desta lista.
